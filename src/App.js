@@ -1,10 +1,10 @@
 import React from "react";
-import Dashboard from "./components/Dashboard.js"
+import Blog from "./components/Blog.js"
 
 class App extends React.Component {
   render() {
     return (
-      <Dashboard />
+      <Blog />
     )
   }
 }
